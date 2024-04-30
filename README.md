@@ -16,8 +16,8 @@ Write the C Program using Linux IO Systems locking
 ### Step 3:
 
 Execute the C Program for the desired output. 
-### NAME : KISHORKUMAR B.
-### REG NO: 212223240072
+### NAME : AKASH KUMAR M.
+### REG NO: 212223230010
 
 # PROGRAM:
 
